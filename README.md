@@ -6,4 +6,4 @@ To solve the challenges, you could use any programming language.
 
 [Challenge 1: Fix Twitter! >>](./01_Fix_Twitter/01_fix_twitter.md)
 
-[Challenge 2: Catch those cybercriminals!](./02_Catch_Those_Cybercriminals/02_catch_those_cybercriminals.md)
+[Challenge 2: Catch those cybercriminals! >>](./02_Catch_Those_Cybercriminals/02_catch_those_cybercriminals.md)
